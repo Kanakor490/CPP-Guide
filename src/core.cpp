@@ -18,3 +18,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // drop an unused branch
 // clarify the control flow
 // guard against empty input
+// guard against empty input
