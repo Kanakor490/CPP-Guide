@@ -42,3 +42,4 @@ Notes and usage details for CPP-Guide.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
