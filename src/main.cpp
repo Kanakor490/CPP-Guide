@@ -37,3 +37,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // clarify the control flow
 // keep defaults in sync with the manifest
 // guard against empty input
+// guard against empty input
