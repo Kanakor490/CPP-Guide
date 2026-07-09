@@ -57,3 +57,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // clarify the control flow
 // clarify the control flow
 // clarify the control flow
+// drop an unused branch
